@@ -1,0 +1,8 @@
+Al ingresar uname -a, aparece:
+MINGW64_NT-10.0-19045 FABIAN 3.6.7-fb42d713.x86_64 2026-03-29 11:44 UTC x86_64 Msys
+
+Y al ingresar whoami, aparece:
+fabia
+
+Es importante conocer información del sistema para detectar problemas, instalar software compatible y
+supervisar el estado del servidor, los que ayuda a mantenerlo funcionando segura y eficientemente.

@@ -1,0 +1,5 @@
+1. Mantener el software y los programas actualizados.
+2. Efectuar copias de seguridad con regularidad.
+3. Confirmar la identidad de las personas que usan la aplicación, especialmente cuando se les concedan permisos.
+4. Usar un antivirus actualizado.
+5. No abrir enlaces de fuentes desconocidas.
